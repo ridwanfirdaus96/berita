@@ -23,7 +23,7 @@
     "gatsby-remark-responsive-iframe": "^2.2.30",
     "gatsby-source-filesystem": "^2.1.43",
     "gatsby-source-graphql": "^2.1.29",
-    "gatsby-transformer-remark": "^2.6.45",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.3.9",
     "heroku": "^7.35.1",
     "react": "^16.12.0",
